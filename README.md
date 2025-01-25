@@ -1,9 +1,8 @@
 # Hi there, I'm Thulasi Raju! 👋
 
-[![Website](https://img.shields.io/badge/Portfolio-YourPortfolioURL-blue?style=flat-square&logo=google-chrome)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thulasi-raju-265b50b6/)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-YourEmail-red?style=flat-square&logo=gmail)](mailto:youremail@example.com)
+[![Website](https://img.shields.io/badge/Portfolio-Thulasi%20Raju-blue?style=flat-square&logo=google-chrome)](https://thulasiraju.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thulasi%20Raju-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thulasi-raju-265b50b6/)
+[![Email](https://img.shields.io/badge/Email-ThulasiRaju-red?style=flat-square&logo=gmail)](mailto:thulasirajua159@gmail.com)
 
 I'm a Software Engineer Test! I love solving complex problems and creating impactful solutions in Quality Assurance and Test Automation. 
 
@@ -42,11 +41,11 @@ I'm a Software Engineer Test! I love solving complex problems and creating impac
 
 ## 🚀 Projects
 
-Here are some of the projects I'm proud of:
+<!-- Here are some of the projects I'm proud of:
 
 - **[Project Name 1](https://github.com/yourusername/project1)** - A brief description of the project.
 - **[Project Name 2](https://github.com/yourusername/project2)** - A brief description of the project.
-- **[Project Name 3](https://github.com/yourusername/project3)** - A brief description of the project.
+- **[Project Name 3](https://github.com/yourusername/project3)** - A brief description of the project. -->
 
 ## 🌱 Currently Learning
 
@@ -59,12 +58,12 @@ Here are some of the projects I'm proud of:
 I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out to me via:
 
 - [LinkedIn](https://www.linkedin.com/in/thulasi-raju-265b50b6/)
-- [Email](mailto:youremail@example.com)
+- [Email](mailto:thulasirajuad159@gmail.com)
 - [Twitter](https://twitter.com/yourhandle)
 
 ## ⚡ Fun Fact
 
-[Insert a fun fact about yourself, e.g., "I once wrote a script that automated my entire morning routine!"]
+I studied Electronics and Communication Engineering, but working as Software Engineer in Test. 
 
 ---
 
